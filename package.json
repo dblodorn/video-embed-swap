@@ -1,0 +1,24 @@
+{
+  "name": "video-embed-swap",
+  "version": "1.0.0",
+  "description": "Vanilla Javascript function that automatically converts youtube and vimeo urls to embed code.",
+  "main": "video-embed-swap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dblodorn/video-embed-swap.git"
+  },
+  "keywords": [
+    "youtube",
+    "vimeo",
+    "embed"
+  ],
+  "author": "db13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dblodorn/video-embed-swap/issues"
+  },
+  "homepage": "https://github.com/dblodorn/video-embed-swap"
+}
