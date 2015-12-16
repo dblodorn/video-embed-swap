@@ -1,5 +1,6 @@
 {
   "name": "video-embed-swap",
+  "version": "1.0.1",
   "description": "Vanilla Javascript function that automatically converts youtube and vimeo urls to embed code.",
   "main": "video-embed-swap.js",
   "authors": [

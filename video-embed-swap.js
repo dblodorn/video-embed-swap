@@ -1,5 +1,5 @@
 /*!
- * Video Embed Swap - V.1.0
+ * Video Embed Swap - V.1.0.1
  * Dain Blodorn / db13.us
  * Automatically converts youtube & vimeo url to embed code.
  * License: MIT
