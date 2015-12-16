@@ -5,6 +5,9 @@
  * License: MIT
  *
  * | Markup:
+ * | Put the url in this div where the function can extract it: <div id="video-url">{{video_url}}</div> 
+ * | The embed will be placed in this div: <div id="video-player"></div>
+ * |
  * | <div id="video-url">{{video_url}}</div>
  * | <div id="video-player"></div>
  *
